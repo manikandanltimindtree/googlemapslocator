@@ -66,5 +66,5 @@ const LocationMap = (props) => {
 };
 
 export default GoogleApiWrapper({
-  apiKey: "AIzaSyAx75hzWwAuW8bmw7WdpB5gOJM1j9Ha-E4",
+  apiKey: "<API-Key>",
 })(LocationMap);
